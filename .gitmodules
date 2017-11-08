@@ -1,0 +1,6 @@
+[submodule "micursodegit_3"]
+	path = micursodegit_3
+	url = https://github.com/fedecoraglio/micursodegit_3.git
+[submodule "micursodegit_2"]
+	path = micursodegit_2
+	url = https://github.com/fedecoraglio/micursodegit_clase_2.git
